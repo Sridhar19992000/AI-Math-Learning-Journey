@@ -1,4 +1,5 @@
 📈 Polynomial Regression – Salary Curve Prediction
+
 🧠 Goal
 
 Predict how salary increases with years of experience when the growth is non-linear (curved) instead of a straight line.
