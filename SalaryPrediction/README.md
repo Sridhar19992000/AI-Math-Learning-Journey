@@ -1,4 +1,4 @@
-Salary Prediction using Linear Regression
+
 📘 Project Overview
 
 This mini-project predicts a person’s salary based on their years of experience using Linear Regression — one of the simplest and most powerful algorithms in Machine Learning.
